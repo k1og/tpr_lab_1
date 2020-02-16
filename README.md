@@ -113,10 +113,6 @@ f)  критерий минимума дисперсии оценочного ф
 			<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in"><BR>
 			</P>
 		</TD>
-		<TD WIDTH=87 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
-			<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in"><BR>
-			</P>
-		</TD>
 	</TR>
 	<TR VALIGN=BOTTOM>
 		<TD WIDTH=473 HEIGHT=6 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
