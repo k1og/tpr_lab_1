@@ -39,7 +39,7 @@ def maximax():
         abort(422)
     return result_str(number_station, crit)
 
-#Routh–Hurwitz stability criterion
+# Routh–Hurwitz stability criterion
 @app.route('/classic/hurwitz', methods=['POST'])
 def hurwitz():
     if not request.json or not 'matrix' in request.json or not 'alpha' in request.json:
@@ -57,6 +57,21 @@ def hurwitz():
         matrix_of_winnings = optimism_coef * vector_of_maxes + pessimism_coef * vector_of_mins
         number_station = matrix_of_winnings.argmax() + 1
         crit = matrix_of_winnings.max()
+    except:
+        abort(422)
+    return result_str(number_station, crit)
+
+# Laplace’s insufficient reason criterion
+@app.route('/classic/laplace', methods=['POST'])
+def laplace():
+    if not request.json or not 'matrix' in request.json:
+        abort(400)
+    raw_matrix = request.json['matrix']
+    matrix = np.array(raw_matrix)
+    try:
+        vector_of_averages = matrix.mean(axis=1)
+        number_station = vector_of_averages.argmax() + 1
+        crit = vector_of_averages.max()
     except:
         abort(422)
     return result_str(number_station, crit)
