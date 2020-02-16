@@ -1,7 +1,7 @@
 from flask import Flask, request, abort, Response
 # from flask_cors import CORS
 import numpy as np
-
+import math
 app = Flask(__name__)
 # CORS(app)
 
@@ -15,7 +15,6 @@ def wald():
         abort(400)
     raw_matrix = request.json['matrix']
     matrix = np.array(raw_matrix)
-    print(matrix)
     try: 
         vector_of_mins = matrix.min(axis=1)
         number_station = vector_of_mins.argmax() + 1
@@ -70,6 +69,28 @@ def laplace():
     matrix = np.array(raw_matrix)
     try:
         vector_of_averages = matrix.mean(axis=1)
+        number_station = vector_of_averages.argmax() + 1
+        crit = vector_of_averages.max()
+    except:
+        abort(422)
+    return result_str(number_station, crit)
+
+# modified Hurwitz stability criterion 
+# f_crit hardcoded !!!
+@app.route('/classic/hurwitz_mod', methods=['POST'])
+# TODO: DRY
+def hurwitz_mod():
+    if not request.json or not 'matrix' in request.json:
+        abort(400)
+    raw_matrix = request.json['matrix']
+    matrix = np.array(raw_matrix)
+    try:
+        vector_of_mins = matrix.min(axis=1)
+        wald_crit = vector_of_mins.max()
+        vector_of_averages = matrix.mean(axis=1)
+        f_crit = wald_crit * 0.6 
+        bool_vector_of_alternatives = vector_of_averages <= f_crit ### so we don't lose the numbering
+        vector_of_averages[bool_vector_of_alternatives] = -math.inf ### 
         number_station = vector_of_averages.argmax() + 1
         crit = vector_of_averages.max()
     except:
