@@ -85,13 +85,244 @@ f)  критерий минимума дисперсии оценочного ф
 
 **Исходные данные**
 
-  **Вариант**   **6**
-  А1            -2         37         7          74         141        24
-  А2            -8         110        114        13         20         31
-  А3            46         131        104        104        77         -8
-  А4            128        101        10         74         61         143
-  А5            58         55         101        17         72         128
-  А6            -2         119        99         149        89         138
-  А7            13         21         23         120        68         96
-  А8            83         16         98         13         52         65
-  *pj*          **0,13**   **0,15**   **0,12**   **0,22**   **0,22**   **0,16**
+<TABLE>
+  <TR VALIGN=BOTTOM>
+		<TD WIDTH=473 HEIGHT=6 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in"><FONT FACE="Calibri, serif"><FONT COLOR="#000000"><FONT FACE="Times New Roman, serif"><B>Вариант</B></FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=260 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in"><FONT FACE="Calibri, serif"><FONT COLOR="#000000"><FONT FACE="Times New Roman, serif"><B>6</B></FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=260 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in"><BR>
+			</P>
+		</TD>
+		<TD WIDTH=260 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in"><BR>
+			</P>
+		</TD>
+		<TD WIDTH=260 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in"><BR>
+			</P>
+		</TD>
+		<TD WIDTH=260 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in"><BR>
+			</P>
+		</TD>
+		<TD WIDTH=260 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in"><BR>
+			</P>
+		</TD>
+		<TD WIDTH=87 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in"><BR>
+			</P>
+		</TD>
+	</TR>
+	<TR VALIGN=BOTTOM>
+		<TD WIDTH=473 HEIGHT=6 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in"><FONT FACE="Calibri, serif"><FONT COLOR="#000000"><FONT FACE="Times New Roman, serif">А1</FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=260 BGCOLOR="#ffffff" STYLE="border: 1px solid #00000a; padding: 0in 0.08in">
+			<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in"><FONT FACE="Calibri, serif"><FONT COLOR="#000000"><FONT FACE="Times New Roman, serif">-2</FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=260 BGCOLOR="#ffffff" STYLE="border-top: 1px solid #00000a; border-bottom: 1px solid #00000a; border-left: none; border-right: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0in; padding-right: 0.08in">
+			<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in"><FONT FACE="Calibri, serif"><FONT COLOR="#000000"><FONT FACE="Times New Roman, serif">37</FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=260 BGCOLOR="#ffffff" STYLE="border-top: 1px solid #00000a; border-bottom: 1px solid #00000a; border-left: none; border-right: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0in; padding-right: 0.08in">
+			<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in"><FONT FACE="Calibri, serif"><FONT COLOR="#000000"><FONT FACE="Times New Roman, serif">7</FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=260 BGCOLOR="#ffffff" STYLE="border-top: 1px solid #00000a; border-bottom: 1px solid #00000a; border-left: none; border-right: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0in; padding-right: 0.08in">
+			<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in"><FONT FACE="Calibri, serif"><FONT COLOR="#000000"><FONT FACE="Times New Roman, serif">74</FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=260 BGCOLOR="#ffffff" STYLE="border-top: 1px solid #00000a; border-bottom: 1px solid #00000a; border-left: none; border-right: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0in; padding-right: 0.08in">
+			<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in"><FONT FACE="Calibri, serif"><FONT COLOR="#000000"><FONT FACE="Times New Roman, serif">141</FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=260 BGCOLOR="#ffffff" STYLE="border-top: 1px solid #00000a; border-bottom: 1px solid #00000a; border-left: none; border-right: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0in; padding-right: 0.08in">
+			<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in"><FONT FACE="Calibri, serif"><FONT COLOR="#000000"><FONT FACE="Times New Roman, serif">24</FONT></FONT></FONT></P>
+		</TD>
+	</TR>
+	<TR VALIGN=BOTTOM>
+		<TD WIDTH=473 HEIGHT=6 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in"><FONT FACE="Calibri, serif"><FONT COLOR="#000000"><FONT FACE="Times New Roman, serif">А2</FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=260 BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: 1px solid #00000a; border-right: 1px solid #00000a; padding: 0in 0.08in">
+			<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in"><FONT FACE="Calibri, serif"><FONT COLOR="#000000"><FONT FACE="Times New Roman, serif">-8</FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=260 BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: none; border-right: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0in; padding-right: 0.08in">
+			<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in"><FONT FACE="Calibri, serif"><FONT COLOR="#000000"><FONT FACE="Times New Roman, serif">110</FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=260 BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: none; border-right: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0in; padding-right: 0.08in">
+			<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in"><FONT FACE="Calibri, serif"><FONT COLOR="#000000"><FONT FACE="Times New Roman, serif">114</FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=260 BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: none; border-right: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0in; padding-right: 0.08in">
+			<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in"><FONT FACE="Calibri, serif"><FONT COLOR="#000000"><FONT FACE="Times New Roman, serif">13</FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=260 BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: none; border-right: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0in; padding-right: 0.08in">
+			<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in"><FONT FACE="Calibri, serif"><FONT COLOR="#000000"><FONT FACE="Times New Roman, serif">20</FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=260 BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: none; border-right: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0in; padding-right: 0.08in">
+			<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in"><FONT FACE="Calibri, serif"><FONT COLOR="#000000"><FONT FACE="Times New Roman, serif">31</FONT></FONT></FONT></P>
+		</TD>
+	</TR>
+	<TR VALIGN=BOTTOM>
+		<TD WIDTH=473 HEIGHT=6 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in"><FONT FACE="Calibri, serif"><FONT COLOR="#000000"><FONT FACE="Times New Roman, serif">А3</FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=260 BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: 1px solid #00000a; border-right: 1px solid #00000a; padding: 0in 0.08in">
+			<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in"><FONT FACE="Calibri, serif"><FONT COLOR="#000000"><FONT FACE="Times New Roman, serif">46</FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=260 BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: none; border-right: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0in; padding-right: 0.08in">
+			<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in"><FONT FACE="Calibri, serif"><FONT COLOR="#000000"><FONT FACE="Times New Roman, serif">131</FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=260 BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: none; border-right: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0in; padding-right: 0.08in">
+			<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in"><FONT FACE="Calibri, serif"><FONT COLOR="#000000"><FONT FACE="Times New Roman, serif">104</FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=260 BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: none; border-right: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0in; padding-right: 0.08in">
+			<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in"><FONT FACE="Calibri, serif"><FONT COLOR="#000000"><FONT FACE="Times New Roman, serif">104</FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=260 BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: none; border-right: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0in; padding-right: 0.08in">
+			<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in"><FONT FACE="Calibri, serif"><FONT COLOR="#000000"><FONT FACE="Times New Roman, serif">77</FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=260 BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: none; border-right: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0in; padding-right: 0.08in">
+			<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in"><FONT FACE="Calibri, serif"><FONT COLOR="#000000"><FONT FACE="Times New Roman, serif">-8</FONT></FONT></FONT></P>
+		</TD>
+	</TR>
+	<TR VALIGN=BOTTOM>
+		<TD WIDTH=473 HEIGHT=6 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in"><FONT FACE="Calibri, serif"><FONT COLOR="#000000"><FONT FACE="Times New Roman, serif">А4</FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=260 BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: 1px solid #00000a; border-right: 1px solid #00000a; padding: 0in 0.08in">
+			<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in"><FONT FACE="Calibri, serif"><FONT COLOR="#000000"><FONT FACE="Times New Roman, serif">128</FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=260 BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: none; border-right: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0in; padding-right: 0.08in">
+			<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in"><FONT FACE="Calibri, serif"><FONT COLOR="#000000"><FONT FACE="Times New Roman, serif">101</FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=260 BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: none; border-right: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0in; padding-right: 0.08in">
+			<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in"><FONT FACE="Calibri, serif"><FONT COLOR="#000000"><FONT FACE="Times New Roman, serif">10</FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=260 BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: none; border-right: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0in; padding-right: 0.08in">
+			<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in"><FONT FACE="Calibri, serif"><FONT COLOR="#000000"><FONT FACE="Times New Roman, serif">74</FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=260 BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: none; border-right: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0in; padding-right: 0.08in">
+			<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in"><FONT FACE="Calibri, serif"><FONT COLOR="#000000"><FONT FACE="Times New Roman, serif">61</FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=260 BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: none; border-right: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0in; padding-right: 0.08in">
+			<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in"><FONT FACE="Calibri, serif"><FONT COLOR="#000000"><FONT FACE="Times New Roman, serif">143</FONT></FONT></FONT></P>
+		</TD>
+	</TR>
+	<TR VALIGN=BOTTOM>
+		<TD WIDTH=473 HEIGHT=6 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in"><FONT FACE="Calibri, serif"><FONT COLOR="#000000"><FONT FACE="Times New Roman, serif">А5</FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=260 BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: 1px solid #00000a; border-right: 1px solid #00000a; padding: 0in 0.08in">
+			<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in"><FONT FACE="Calibri, serif"><FONT COLOR="#000000"><FONT FACE="Times New Roman, serif">58</FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=260 BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: none; border-right: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0in; padding-right: 0.08in">
+			<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in"><FONT FACE="Calibri, serif"><FONT COLOR="#000000"><FONT FACE="Times New Roman, serif">55</FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=260 BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: none; border-right: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0in; padding-right: 0.08in">
+			<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in"><FONT FACE="Calibri, serif"><FONT COLOR="#000000"><FONT FACE="Times New Roman, serif">101</FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=260 BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: none; border-right: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0in; padding-right: 0.08in">
+			<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in"><FONT FACE="Calibri, serif"><FONT COLOR="#000000"><FONT FACE="Times New Roman, serif">17</FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=260 BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: none; border-right: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0in; padding-right: 0.08in">
+			<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in"><FONT FACE="Calibri, serif"><FONT COLOR="#000000"><FONT FACE="Times New Roman, serif">72</FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=260 BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: none; border-right: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0in; padding-right: 0.08in">
+			<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in"><FONT FACE="Calibri, serif"><FONT COLOR="#000000"><FONT FACE="Times New Roman, serif">128</FONT></FONT></FONT></P>
+		</TD>
+	</TR>
+	<TR VALIGN=BOTTOM>
+		<TD WIDTH=473 HEIGHT=6 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in"><FONT FACE="Calibri, serif"><FONT COLOR="#000000"><FONT FACE="Times New Roman, serif">А6</FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=260 BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: 1px solid #00000a; border-right: 1px solid #00000a; padding: 0in 0.08in">
+			<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in"><FONT FACE="Calibri, serif"><FONT COLOR="#000000"><FONT FACE="Times New Roman, serif">-2</FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=260 BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: none; border-right: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0in; padding-right: 0.08in">
+			<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in"><FONT FACE="Calibri, serif"><FONT COLOR="#000000"><FONT FACE="Times New Roman, serif">119</FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=260 BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: none; border-right: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0in; padding-right: 0.08in">
+			<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in"><FONT FACE="Calibri, serif"><FONT COLOR="#000000"><FONT FACE="Times New Roman, serif">99</FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=260 BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: none; border-right: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0in; padding-right: 0.08in">
+			<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in"><FONT FACE="Calibri, serif"><FONT COLOR="#000000"><FONT FACE="Times New Roman, serif">149</FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=260 BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: none; border-right: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0in; padding-right: 0.08in">
+			<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in"><FONT FACE="Calibri, serif"><FONT COLOR="#000000"><FONT FACE="Times New Roman, serif">89</FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=260 BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: none; border-right: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0in; padding-right: 0.08in">
+			<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in"><FONT FACE="Calibri, serif"><FONT COLOR="#000000"><FONT FACE="Times New Roman, serif">138</FONT></FONT></FONT></P>
+		</TD>
+	</TR>
+	<TR VALIGN=BOTTOM>
+		<TD WIDTH=473 HEIGHT=6 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in"><FONT FACE="Calibri, serif"><FONT COLOR="#000000"><FONT FACE="Times New Roman, serif">А7</FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=260 BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: 1px solid #00000a; border-right: 1px solid #00000a; padding: 0in 0.08in">
+			<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in"><FONT FACE="Calibri, serif"><FONT COLOR="#000000"><FONT FACE="Times New Roman, serif">13</FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=260 BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: none; border-right: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0in; padding-right: 0.08in">
+			<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in"><FONT FACE="Calibri, serif"><FONT COLOR="#000000"><FONT FACE="Times New Roman, serif">21</FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=260 BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: none; border-right: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0in; padding-right: 0.08in">
+			<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in"><FONT FACE="Calibri, serif"><FONT COLOR="#000000"><FONT FACE="Times New Roman, serif">23</FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=260 BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: none; border-right: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0in; padding-right: 0.08in">
+			<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in"><FONT FACE="Calibri, serif"><FONT COLOR="#000000"><FONT FACE="Times New Roman, serif">120</FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=260 BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: none; border-right: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0in; padding-right: 0.08in">
+			<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in"><FONT FACE="Calibri, serif"><FONT COLOR="#000000"><FONT FACE="Times New Roman, serif">68</FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=260 BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: none; border-right: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0in; padding-right: 0.08in">
+			<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in"><FONT FACE="Calibri, serif"><FONT COLOR="#000000"><FONT FACE="Times New Roman, serif">96</FONT></FONT></FONT></P>
+		</TD>
+	</TR>
+	<TR VALIGN=BOTTOM>
+		<TD WIDTH=473 HEIGHT=6 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in"><FONT FACE="Calibri, serif"><FONT COLOR="#000000"><FONT FACE="Times New Roman, serif">А8</FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=260 BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: 1px solid #00000a; border-right: 1px solid #00000a; padding: 0in 0.08in">
+			<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in"><FONT FACE="Calibri, serif"><FONT COLOR="#000000"><FONT FACE="Times New Roman, serif">83</FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=260 BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: none; border-right: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0in; padding-right: 0.08in">
+			<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in"><FONT FACE="Calibri, serif"><FONT COLOR="#000000"><FONT FACE="Times New Roman, serif">16</FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=260 BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: none; border-right: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0in; padding-right: 0.08in">
+			<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in"><FONT FACE="Calibri, serif"><FONT COLOR="#000000"><FONT FACE="Times New Roman, serif">98</FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=260 BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: none; border-right: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0in; padding-right: 0.08in">
+			<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in"><FONT FACE="Calibri, serif"><FONT COLOR="#000000"><FONT FACE="Times New Roman, serif">13</FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=260 BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: none; border-right: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0in; padding-right: 0.08in">
+			<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in"><FONT FACE="Calibri, serif"><FONT COLOR="#000000"><FONT FACE="Times New Roman, serif">52</FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=260 BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: none; border-right: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0in; padding-right: 0.08in">
+			<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in"><FONT FACE="Calibri, serif"><FONT COLOR="#000000"><FONT FACE="Times New Roman, serif">65</FONT></FONT></FONT></P>
+		</TD>
+	</TR>
+	<TR VALIGN=BOTTOM>
+		<TD WIDTH=473 HEIGHT=6 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in"><FONT FACE="Calibri, serif"><FONT COLOR="#000000"><FONT FACE="Times New Roman, serif"><I>pj</I></FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=260 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in"><FONT FACE="Calibri, serif"><FONT COLOR="#000000"><FONT FACE="Times New Roman, serif"><B>0,13</B></FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=260 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in"><FONT FACE="Calibri, serif"><FONT COLOR="#000000"><FONT FACE="Times New Roman, serif"><B>0,15</B></FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=260 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in"><FONT FACE="Calibri, serif"><FONT COLOR="#000000"><FONT FACE="Times New Roman, serif"><B>0,12</B></FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=260 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in"><FONT FACE="Calibri, serif"><FONT COLOR="#000000"><FONT FACE="Times New Roman, serif"><B>0,22</B></FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=260 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in"><FONT FACE="Calibri, serif"><FONT COLOR="#000000"><FONT FACE="Times New Roman, serif"><B>0,22</B></FONT></FONT></FONT></P>
+		</TD>
+		<TD WIDTH=260 BGCOLOR="#ffffff" STYLE="border: none; padding: 0in">
+			<P CLASS="western" ALIGN=CENTER STYLE="text-indent: 0in"><FONT FACE="Calibri, serif"><FONT COLOR="#000000"><FONT FACE="Times New Roman, serif"><B>0,16</B></FONT></FONT></FONT></P>
+		</TD>
+	</TR>	
+</TABLE>
