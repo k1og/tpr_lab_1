@@ -96,3 +96,20 @@ def hurwitz_mod():
     except:
         abort(422)
     return result_str(number_station, crit)
+
+# критерий максимальной вероятности
+@app.route('/probability/maximum_probability', methods=['POST'])
+def maximum_probability():
+    if not request.json or not 'matrix' in request.json or not 'probability':
+        abort(400)
+    raw_matrix = request.json['matrix']
+    matrix = np.array(raw_matrix)
+    raw_propability = request.json['probability']
+    propability = np.array(raw_propability)
+    try:
+        matrix_propability = matrix.T.dot(propability)
+        number_station = matrix_propability.argmax() + 1
+        crit = matrix_propability.max()
+    except:
+        abort(422)
+    return result_str(number_station, crit)
