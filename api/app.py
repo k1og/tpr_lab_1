@@ -96,3 +96,21 @@ def hurwitz_mod():
     except:
         abort(422)
     return result_str(number_station, crit)
+
+# Критерий Гермейера
+@app.route('/probability/germeier', methods=['POST'])
+def germeier():
+    if not request.json or not 'matrix' in request.json or not 'probability':
+        abort(400)
+    raw_matrix = request.json['matrix']
+    matrix = np.array(raw_matrix)
+    raw_propability = request.json['probability']
+    propability = np.array(raw_propability)
+    try:
+        matrix = matrix - matrix.max() - 1
+        criter_min = matrix.min(axis=0) * propability
+        number_station = criter_min.argmax() + 1
+        crit = criter_min.max()
+    except:
+        abort(422)
+    return result_str(number_station, crit)
